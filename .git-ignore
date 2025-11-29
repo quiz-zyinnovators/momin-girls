@@ -64,4 +64,3 @@ Thumbs.db
 # Angular specific (optional)
 # =====================
 .angular/
-docs/   # if generated (remove if needed)
